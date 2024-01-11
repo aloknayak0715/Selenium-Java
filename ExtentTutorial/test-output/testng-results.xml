@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-26T20:30:14 IST" name="Default suite" finished-at="2023-12-26T20:30:32 IST" duration-ms="18539">
+    <groups>
+    </groups>
+    <test started-at="2023-12-26T20:30:14 IST" name="Default test" finished-at="2023-12-26T20:30:32 IST" duration-ms="18539">
+      <class name="testngextenttutorial.ExtentTutorial.ExtentReportDemo">
+        <test-method is-config="true" signature="config()[pri:0, instance:testngextenttutorial.ExtentTutorial.ExtentReportDemo@5a45133e]" started-at="2023-12-26T20:30:14 IST" name="config" finished-at="2023-12-26T20:30:14 IST" duration-ms="382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method signature="initalizeDemo()[pri:0, instance:testngextenttutorial.ExtentTutorial.ExtentReportDemo@5a45133e]" started-at="2023-12-26T20:30:14 IST" name="initalizeDemo" finished-at="2023-12-26T20:30:32 IST" duration-ms="18117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initalizeDemo -->
+      </class> <!-- testngextenttutorial.ExtentTutorial.ExtentReportDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
